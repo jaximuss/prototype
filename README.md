@@ -1,4 +1,4 @@
-# Prototype AI Chatbot (Flutter)
+#  AI Chatbot (Flutter)
 
 A simple conversational AI chatbot built using **Flutter** (for mobile) as a prototype app.  
 This project demonstrates core functionalities like message exchange, UI layout, and basic chatbot logic.  
